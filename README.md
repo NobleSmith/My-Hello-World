@@ -10,7 +10,7 @@ The Purpose of this software is to learn how to upload something to github.
 
 # Development Environment
 
-This was a simple program utilizing python 3.11 and VS Code}
+This was a simple program utilizing python 3.11 and VS Code
 
 Python is an easily accessible language, offering high usability.
 
