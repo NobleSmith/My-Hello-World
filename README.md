@@ -2,7 +2,7 @@
 
 Working towards github understanding
 
-The classic Hello World}
+The classic Hello World
 
 The Purpose of this software is to learn how to upload something to github.
 
